@@ -1,0 +1,26 @@
+{
+  "name": "Henrietta Cooper",
+  "age": 27,
+  "address": {
+    "street": "Pekwel Turnpike",
+    "city": "Luzucto",
+    "state": "MD",
+    "zip": "22680"
+  },
+  "contact": {
+    "phone": "(567) 408-8801",
+    "servicePhone": "800492549"
+  },
+  "birthday": "1998-02-12T05:20:11.731Z",
+  "ip": "64.49.9.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Eccel rec uwecitge nej weense vo kewjol majrukev tottezu tuntoaru weguc uwfutij ko kakrisu imukan be. Zomgiv povfinfe oja putav abahel moh ziagima so tasozha ubafec ca kiz. Udiefesep vidozu kindu gedcep ejjef peruhunej zavuruj si pob ahe tiku vur oj wep mebje or lilwer.",
+    "bio": "Meb guk uwkagjis hotam bad piewteh wugi odive sozejlum pi fualasa mejta folkeb. Loahuese ok ofidiwo foc zacdublic pa livic od foopufip hob aku ibiuzoofa om ahusodiw. Vu podpi hefofo ji igudo humo hiopo enebileh cal es tos gi acmewih pewken cojwu rirvoli. Geigi cazgam hudujasu go turmaf lo ija ihoekhe bal toridnuf me peufu zo apfac. Juuco uwa fiha wojifopom tapin gohum zutuor tateb buj cuh joomera tijuc ejma uf viubwof. Ukoebho hom kuhure ali ezelo na po ziskepzi vusubi hijcomgu urasoke jopcalo pikuw olewa sojvuw bitaglez ohe lo."
+  },
+  "apiKey": "c7f2f61fab0eeda5add0a2eb68e1c7fdac37ef73e95888c653404a355f468269",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
