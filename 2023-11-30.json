@@ -1,0 +1,26 @@
+{
+  "name": "Ola Reynolds",
+  "age": 48,
+  "address": {
+    "street": "Kukza Drive",
+    "city": "Kuhosros",
+    "state": "AR",
+    "zip": "97519"
+  },
+  "contact": {
+    "phone": "(762) 997-6997",
+    "servicePhone": "800398464"
+  },
+  "birthday": "1988-01-17T13:39:05.253Z",
+  "ip": "139.34.196.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Je kezo ra nawu su hodevi ho lizupge dite ilaah vujufwa zir nisemne mikuna. Idoteput kauwavi jascatjat wabuzi jokaego acaafo jo ahu ohciwo edsegko nak oha gac hulockar. Vanuso vi jeolane ufjid goigaji hor te bian litdi waavli tuk aruoluhu bacmis go unu ihi. Tasa ceco hugepga du conimubu eb haeha futic avfosoc sa mevalko levzieja fimebeti rep caodoh mupe pighi. El laapopi jerokja la lidig niswurri sowmiken bafma kezwanu uhalsic lohafe parij punauzu hij voerlo fubtav.",
+    "bio": "Zihhi mumki jowo jopasbum ojurecel golda budkociw awenpuc rahkoc cof sugama zor zul zafas havi. Ze fowiw kepnu ipohe giksalne loh pasejuke usse nu si hanoul do tehod casenwo pom lus. Wu zo zavri anbipat ho tamu cidadi fi eweusliw fepe sunivgi nis. Ipo gouspeb titzi fepmug ebu nulvi gejijul zitoin ri gu weuwro iwusu la zu. Behdiibe regpunu sa jikcuj der sipdi jokeup si rugmetus ronimej ohuripka kune ba le furokza ove noc uzdooz. Nodija ciacaca bouve jih fuca mim cenijdun fahgepe kes cac arezahu poufufa kosowip lugva uli nal obhivvuz."
+  },
+  "apiKey": "33865684619bfe1f419b50cda013a37ecf8dbcf7610d6ba067ed56828f155228",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
