@@ -1,0 +1,26 @@
+{
+  "name": "Martha Moreno",
+  "age": 32,
+  "address": {
+    "street": "Uknip Street",
+    "city": "Haurri",
+    "state": "TN",
+    "zip": "88079"
+  },
+  "contact": {
+    "phone": "(381) 436-2954",
+    "servicePhone": "800386533"
+  },
+  "birthday": "1980-05-23T17:47:43.283Z",
+  "ip": "221.212.28.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Lubos misuzlij le isuujeg no hizeheju baplamrab naruh gid ra womdistur di wiwusrol. Ke nafpevu gotruw geewo napoka oni nadhopsu lan sazburi taj jakos awi foj. Gumaf unog puzcajpic rowreja evfac mozuk ervak ehakadir cosvuv setnujom toj ofu dimi sacnocum omlic adufe nuzre ih.",
+    "bio": "Vowza kinibimev ti dinuwduj jumbider uc pizegpi vo vim mefvu jip jislo doddopa. Zun kuzabed kocadu pizheowo ebrecahe pebmasbod dud ridlofaz ozsode ogezuzdu lecovbor ef gi suus wa wom ciop ekronnuz. Atmiczid nuh cij iw vepafmo ra wep behco imiwioc ga dek safa tiga."
+  },
+  "apiKey": "e3121e9b296db4b9bc053a34df888bc71983fbf30418be7d1f498099d370c7a8",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
