@@ -1,0 +1,26 @@
+{
+  "name": "Walter Cooper",
+  "age": 20,
+  "address": {
+    "street": "Beig Grove",
+    "city": "Icisfu",
+    "state": "FL",
+    "zip": "94093"
+  },
+  "contact": {
+    "phone": "(635) 564-8985",
+    "servicePhone": "800637878"
+  },
+  "birthday": "1991-11-08T15:05:49.515Z",
+  "ip": "165.124.237.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Le wubfol taewamos ke havugeb vaba wizohala ajhav diizovu rotme ja ra. Nojmi jum pudino mu gooha ofna es sarih losewjip bubbel zuda aborut. Penafur lib viohwof neaggu igzisdo efenu emohapkeb sadip ecukib girju ciem nuge. Az ja ek vu ri vizuje dir someto vonepok uromo kas kemof diuze. Borwuzpis ca cunsu fejabu otzaligo kar ufuda edi zi acoop lacop tifrip mepkatzov. Ge cef wipwit wuraf jetakin noje uv dag doc rucepog har fudema lufzu ogwo vihub gos.",
+    "bio": "Gagicpeb ved ro ejpugug widsov re kotnu nu wudjahpal po ebeeladef riwi ure muezka. Harnegleg zi tapof jotbopoh velak gazewdad we hut ocnazop nodtuoj is fez lojnukeg mej mus. Devav rivojo gocfavmuv lab ha kalkuh ahte ipvav peme kihfa uko izu pevrehom. Uztu non urouse safep dat samofi jor nop keb per jopod sejripi viida butiuk degser cupalup. Jafrokgep gidizak guih ezerud cumolbuf dooteiwo ni eckik pevigihi etefejti osuke picufba re."
+  },
+  "apiKey": "2db33f5e52d831c5274624bcb5e87b2a03911129a07a385ef7edbe7a8aa81757",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
