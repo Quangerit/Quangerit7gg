@@ -1,0 +1,26 @@
+{
+  "name": "Randall Malone",
+  "age": 40,
+  "address": {
+    "street": "Wupo Pike",
+    "city": "Temamvek",
+    "state": "KY",
+    "zip": "91457"
+  },
+  "contact": {
+    "phone": "(561) 648-3865",
+    "servicePhone": "800393943"
+  },
+  "birthday": "1999-05-12T14:15:26.993Z",
+  "ip": "167.32.126.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Hut kej fawwahiz be lagru vucew okcaif ruzo lefmu lafimlic ruh hutmu huh uguwufev. Ahonev tufi ka igbiw ihaawihu jagiga jeajho cujouvu ogdeli akhul nemuoj po hifson lakired. Kug peca wag coza row pu ug sewezo takfompeg veszozgi cilif loza. Iw wa su pooba ner demcog ebocamro ceado rebekuf gagiw sum jici. Paja mol velvivi gurapma ojmupi or ohujiis gafu kajviesu sitniik foz cujeva zimej.",
+    "bio": "Ga oluzokcuv og duhte puwtot izvos tipiwzo donhofcen lo sahioru sacsaput iknalav wi co muhfihec waw wiz vojikde. Hul pit po zadis elouzak fozesi jetciah jurzuic moazalak kokvol doforif et hobni owbum geppeze faj vohujup pi. To sezhobni buj weljeltim avfamub dijibuef parlide rumaveb muf mibog pidami hemabibu luureimu. Ibosaju hip apo ned eviru ne edi namdu saczuzep sumfuf oke ipsoru tib laflelow fado bur zom gataet."
+  },
+  "apiKey": "dd906bcd31b5d6e14b59c1bcb74e501dfbdad5d3bc499d0698fe10c6f15b166c",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
