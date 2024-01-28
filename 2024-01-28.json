@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Tran",
+  "age": 22,
+  "address": {
+    "street": "Siru Road",
+    "city": "Fonaler",
+    "state": "SC",
+    "zip": "94585"
+  },
+  "contact": {
+    "phone": "(322) 641-6633",
+    "servicePhone": "800466434"
+  },
+  "birthday": "1961-06-01T08:09:41.808Z",
+  "ip": "134.220.116.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Hesfavog urukaki vedhe jahusaf lev suk lu kahe kov lo ubvirde ber zizop zucod raruwe. Degufuamu naibezu ote ciwmor med cevwinku cakek sag weki ud ozusalo ogi nuv mo holumtoc paze jokduh. Az natovju vaw pow tepzotwi tidozidus gojohu baduni gim gowa ogevejros jak jibo. Mep vako wu zain musaz posjan tonelu uhifil ufizaslar huzpi ozuhas hudelkus adihor kefliji. Vew ezked nu mah gocpuna hicno jingacej tibawu ucikor zarde lu zibetza gorji tojsawo tohugpi me ticfihju. Vaf witucok div runavekow kare fiec buf lude aho miwilraw viluok iv bu tame.",
+    "bio": "Mut zoeso mihizod zirnic buvoove dujpadog daohwo bacfevjo gitetu woctujij fa fimokga nijaprej zo. Epeferba vi henaz rocle aruhi ti caapejum sacos paziip faob go damorubo rikfefi tu dosotoaw nitagtu. Te gukeim jociwof wiila ih az lunmo mifkon edupojna do jo fed geoto cikesot. Nutlaah hok hanunenes jan no dik hobi mifoj weifead ezuni nazcogcu cejpilo nibcenme olazujof lovju sucri. Muweksuj sacaciros duge egesus cusoep uga cahasmus foltip jeweug doronok le eg. Sahsilo tikido tutuho jalejej azizoade nev div ifejemop wupa zohzo ik umko bafe no. Koc opi vemet haju nutaf pevbaume jaju mef lowpejpis atludeg he kobla."
+  },
+  "apiKey": "9137e5dd3231a3bb126be608ab4a3f523cc7dd1cc35f93af5b13b410b44bd1cd",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
