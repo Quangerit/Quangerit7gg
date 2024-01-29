@@ -1,0 +1,26 @@
+{
+  "name": "Luis Phelps",
+  "age": 45,
+  "address": {
+    "street": "Gugat River",
+    "city": "Onogisun",
+    "state": "AR",
+    "zip": "78058"
+  },
+  "contact": {
+    "phone": "(473) 354-2628",
+    "servicePhone": "800493645"
+  },
+  "birthday": "1968-08-11T03:59:52.189Z",
+  "ip": "121.159.104.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Tid rihwid hi ifaor af nisoffo huf ocipid cofbocaz biilacef iz diepaiza. Liec tub hokik defat povi nijomo beanapi etijunep da ovi voicri ru lobreaju vige fiew. Afnu la janu acipi regin vas zud jonedwig ha tolvu bi paneapa nu. Veb ve san ihimo wu zu new huci bekoje af tiruzo insacu fietlok husuktu hapos hi.",
+    "bio": "Apavec invu ifeti puudzol ogi seeh reh lukop hicaj aji ijzomtoz orovoh zuf wu. Ujhulij imjosju tek wecujdi orosucor ucaipuzec lez ketgoin tonti sevus revu fiugiowo poge cawwot. Ruafo gectincov ibasur cif cozduic da cohpo ugoko ehi ticjim ecez jawuhgep uzeubnok azu zerboglo cokeoz teuloeju. Ud wulobek diplo konzig ni wiage kicob uduvilrub raaka parwel jo fafibov. Uduenfu detmu ubwakgas koloz ven raujo guv ofitaz neve asimapo kitdapjuk carpic one woalkuc ubuki. Za is gimferro natfad cubha to jino fe wis hedin zethif puzbozi ev zadze ifi leejevan imujonib fok."
+  },
+  "apiKey": "031447192c8f0bcb21a1d4665fa897b3b8f9c46cc066e313dafc28ccc836c853",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
