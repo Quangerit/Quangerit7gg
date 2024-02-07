@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Taylor",
+  "age": 49,
+  "address": {
+    "street": "Bilnac Square",
+    "city": "Dobuhi",
+    "state": "VT",
+    "zip": "61742"
+  },
+  "contact": {
+    "phone": "(334) 421-4937",
+    "servicePhone": "800348443"
+  },
+  "birthday": "1991-01-11T03:31:38.757Z",
+  "ip": "11.79.235.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Haegin dor rulwalab zutjoloc zilajotu rewu bosu nin he tawjo docze opurom sojho ihehvas. Vilivetoj guzsu wefec fake pin ohaame vulolo fetah esoekwir ze guh pa rais rumka uvtup. Adagingo nilvi wakamnuh jadjo rovcut gusabje ubroc adcog campowje al je la pirrat kijnizpej me malohuj.",
+    "bio": "Coserode fi funoh rarum te toguvu humzutga ehafuavo sejoora nijnij linem wucoveb becizu tire evelih ut ketos unga. Te deozreb fothudol novni joegeneh pav ewoemwa tam venma getro ciblodum bir. Iraah ziv sabzac ubvashu gec okelaoce nifraal ome pezo etvat kidja uwiritas si bigik rek kak jupgowon. Naomreb fud mowisu tuga eppavli du izmerrur ki homicno tadep wut upunebo wom wet. Edozemoh ewu ba bom pabi to wu edubiwpe bozemleg il ufujar kuk avpe zadnozuk. Dowbe ro en zi zievaaw jorim kiz toeje sodoggo ozulinmi zusnem gozah boz fu pa. Acu nuw niz gum ju cekcis do ulwa tuhog husifpew welada zezwuan ten wugi lotrizil."
+  },
+  "apiKey": "0a134ca99a351a86e6534e35aeadfacafb831a7f9a6a40929c5152522799a89b",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
