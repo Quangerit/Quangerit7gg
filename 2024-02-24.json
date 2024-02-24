@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Boone",
+  "age": 25,
+  "address": {
+    "street": "Kenwu Path",
+    "city": "Loovki",
+    "state": "WI",
+    "zip": "00493"
+  },
+  "contact": {
+    "phone": "(359) 815-1353",
+    "servicePhone": "800633557"
+  },
+  "birthday": "1960-03-05T09:30:29.616Z",
+  "ip": "135.9.13.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Weejazam ozo savrioke hidto kad wesvaw zarzof ugepione laf wok visho ujcug fakpole jutfonha foseb duw sihottag im. Ro vijofzi zafos ci pemo epopzow vecabu ofuneh uhugul hejakik nujeina anmuc li munnepew im. Biik rolicnul leehzo zejjepji atawozzew fi ovutebhoh sifliar gohtusto elunaso zow faen jiwcofi ovegacbi egtolin.",
+    "bio": "Wifel use meikgif onutu afa ubazekfe sora puic zod paput mopsela liudazo ga keoz. Poj kebolibo li pef esosi bovet asgofomi ajzuba du deun ohagi lunuswul sapu nimzu efuhar sujza. Lud vahagked maahil moditi ajpapkuw wadve irpaho tagufbi pazueko vaivuca ziwmube feiceso jogmidi nose ras li. Ub fir vusulijap ilkomat debju vuzkemmap ped baseli jurol esuvake iseruk enu."
+  },
+  "apiKey": "a81b8d175478d1ead2c462ace0e8b3e1f8a85fa7b7384ebdee8da853d0b20399",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
