@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Singleton",
+  "age": 47,
+  "address": {
+    "street": "Awaneh Glen",
+    "city": "Gabitgo",
+    "state": "KS",
+    "zip": "43272"
+  },
+  "contact": {
+    "phone": "(506) 950-1726",
+    "servicePhone": "800298898"
+  },
+  "birthday": "1994-06-01T19:49:28.829Z",
+  "ip": "111.169.87.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Eseva hut ibuto bijuz caaftov ligvim hi poroh efhutu tul zufhav juh hadteen mulup fueratoz afa. Zitze wa fabkefa norih len umi col cattec sa ganna sasene wofoku wenulmid seldid. Tifuf uwpubi mo wizogu mudfavap pes ud uhbiud rubug vazhovfe tuvojem zeejfo. Wozgof vagmoscu ivo fi iviiwefoc su dutfo sefmat boz toicizu mejgutuv nojon. Lirjig tev azo fo zugdol urelate luj wufla hupod sugu tahi migarod si lof patfu.",
+    "bio": "Nozvofwof ogta nufoj wul tuvajesu cidezuod jira ok ev caswepjov kekve te zuw vadnap fevgamu itu. Wure cukihzi wuklu oro zufile si vi efeen sug fe cer hi hahamo ku. Nedlozip lajru did mucejko loat wa restuut jeliwlun vitze libonnin kibum mebe ilepohpuv zuwvibat. Lenzuhor afitza sob od na bogpo ti hivregmu fopu ni hukcavuk ar."
+  },
+  "apiKey": "5ef5bddf689ac3709be107d30d5de708877365e5013f55d8329c25467ce9ecff",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
