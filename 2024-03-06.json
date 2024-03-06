@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Boone",
+  "age": 42,
+  "address": {
+    "street": "Bosgu Park",
+    "city": "Demnukwi",
+    "state": "FL",
+    "zip": "48750"
+  },
+  "contact": {
+    "phone": "(332) 360-9153",
+    "servicePhone": "800498767"
+  },
+  "birthday": "2005-01-11T22:29:42.764Z",
+  "ip": "237.205.127.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Jof gaeni na hec pekaf jez ta tonuw bientur cit sopejaw itukivpij dikroet te govvi recapwi. Nu tojillod gegimumo cisahlu hog wow egdo mozer biz tum kefafki lej nilbokhog zez miifijup pot. Pa bazzefof guemwot oguli calcasug gahub ildurov otujace sej zawcomce baf resu jiwdamfe zucuv.",
+    "bio": "Biumeezi ivwut kan huzboti ob zoar kedhion buhupi si rija govac kovubas at. Zokge modezjut wuotiw mihepru ed metkil raage ijufo banike jouzdu owo osion fagabgu kusmuguj hapafiw mave soz. Kawifut pu ten picbandih bevujde judzoweb dices uz cupterno hivuge ci dos ibwe."
+  },
+  "apiKey": "59b731a7ccc8669b601d8800f3aaf9c42a9f6026db51344cee2403fe89d1f2ab",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
