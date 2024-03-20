@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Drake",
+  "age": 57,
+  "address": {
+    "street": "Fihopa Pass",
+    "city": "Comuwul",
+    "state": "MN",
+    "zip": "47104"
+  },
+  "contact": {
+    "phone": "(364) 484-8000",
+    "servicePhone": "800389441"
+  },
+  "birthday": "1972-10-04T08:00:16.641Z",
+  "ip": "229.51.95.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Ges re vu zurjut vofcebo cobleg fiala pu wusbake jusuje tukzopaj repep lo zuf ahodagtub ukonet. Lusew gedmoki gad ovge asu borisig olado huznuwiz rodnu no cenud widmo noj zel. Doz one av nub hi reg ginveh pokvo zim no fofeg cunomeh wa jicvized zojesloz ab juuforer.",
+    "bio": "Pihi johgeg lo ri fab hi eraduf jivug ri cawa agaete mufahih liha borumus. Vecihgop vut zuha osa kibazu ohudiw buha tofeida wutvahimu ridpo hesveop zeve eguice zovocu. Uw nak uro feovoca huk nafja cip mibeswof wa noh da cefhomuf up wok. Wa hipcig tivig mupsaak puwhizab fovmezhil maedo de lupurhok keuz opiazaha pelebehe lab tim bu nelobga dib."
+  },
+  "apiKey": "622469fcc0b4d336f72931f018d1d8eaae8675355f44998f4d7262bf0cb19a32",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
