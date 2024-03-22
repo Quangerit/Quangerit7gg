@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Mullins",
+  "age": 34,
+  "address": {
+    "street": "Akma Highway",
+    "city": "Cotilher",
+    "state": "NC",
+    "zip": "97933"
+  },
+  "contact": {
+    "phone": "(624) 822-8875",
+    "servicePhone": "800959789"
+  },
+  "birthday": "1999-07-25T20:11:42.493Z",
+  "ip": "18.60.254.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Fubi lidfe kognakek kan guewup agipif ditolez dettit vegdoge li gamo etaegoju. Er few si lorgedu to faclaip poiriedu hak zot ihigorip giwo fa lilomta pupdokmum paj li. Da afcien obu pire ascu fulok hichaco waujiwuk huhicgod otu jevaov ha. Puvbeov buvowtok lodi jisfu odaen vo iresisa keg lereftu fip noewi sap ofeehru moke lu.",
+    "bio": "Offir kas amimutake ze bevol javot giwpim zucuum wasokge camwakfi pufulgap rizoera mi war. Mal ejpaj elokaftem odehaage sepu mata risefruh isaf kecetod du mocecuka hisiberel azenumo. Ge imi recso vimzoche sipek uwucudwo boem az sizirpem lidtuf or uzezifsos nowo amkege oje zavalefiz."
+  },
+  "apiKey": "f4f28b75b30f25661be0df1501e31353b78c6fdf8dbbcdaf11e405b4c0eaab08",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
