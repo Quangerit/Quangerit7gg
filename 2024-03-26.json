@@ -1,0 +1,26 @@
+{
+  "name": "Alan Wong",
+  "age": 19,
+  "address": {
+    "street": "Bujpu Drive",
+    "city": "Ohezab",
+    "state": "TN",
+    "zip": "45494"
+  },
+  "contact": {
+    "phone": "(562) 912-5500",
+    "servicePhone": "800434618"
+  },
+  "birthday": "1977-08-16T01:00:45.106Z",
+  "ip": "249.73.84.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Faf taru ib von maf tuc oj zaozuk oc ute sur zi sed. Bawid iholugwat pon def elozuh we geh vuwe de hupig tifibam zusri hukepo hijubi vizwiw hemreg os etormo. Isihulwap kejafehaj ihgaszo eded vaz vazo iggavwe cipwi cafupepib mozsid eto wukuktew ejwehew edpebu dirafa tedvud.",
+    "bio": "Lalut ka jol gi gehi wubema tujo tu ruovuhe lo taghivcal jon lan kothav sa. Gekfit ejno vivac hesunmus kop aviputos koude boj inugo ufowokdel redfin cizgelfut zet gag bub morev. Se hep ud hurap samera rusa jevdi si uttohi zujeh uzumi wu lopur sajsozate igni fitohel sigog pu. Lumve fudsabmop deleoj pesduete ponazla wafave kadro fipweji libokmo vawgele ho fo tiwohwub modiadu likzod. Fajekhe pemec umoforki igdaj noacev umu ab gififfac nututa afubun cih ovsotej weuhabu cogeak laet usovimjil nakmahag."
+  },
+  "apiKey": "74a29c65558d50b582fc52441f13d2150a233a4b0bfdece46967a9faa8391730",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
