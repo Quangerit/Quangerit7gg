@@ -1,0 +1,26 @@
+{
+  "name": "Leo Craig",
+  "age": 36,
+  "address": {
+    "street": "Laow Glen",
+    "city": "Bemunkim",
+    "state": "NY",
+    "zip": "62060"
+  },
+  "contact": {
+    "phone": "(316) 437-7750",
+    "servicePhone": "800554352"
+  },
+  "birthday": "1979-05-30T20:32:34.270Z",
+  "ip": "96.168.121.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Wecek af zibjefur kecke pa miejema duprev edagujas zufgo pise sicanfit lowaz belidna giccoja. Les adhokud ge hetjekbo hugoco dorpik zije odaraggeg pise negdotka ruthih mazupice uvi zavu. Vezuoz lazanehef logagdo za fuw vunzavti pevibwar sirej jimon kibagu lovuipa zi.",
+    "bio": "Uh jusadavi nod go dachupcef vudunej bapajpor zi no wekebrij hi cepvejcef teb rejugho ul. Epcucjef si daon ipgodpi monlien nu meizuave mezok rot ovviv vup mulatfaw. Tezbuca de tap hip wukavu navarop sehdisgi rofali wa ecaerafaj kigvuk nituhaza. Do ofauv befpomtiv kog cojak jilum iwofudlu do pu siluvu hikvo juni webozgi jimin zig. Rotvitgit bus hawnag ih cam koc gusesdo huuniw milcoziko urtikuv mi iha."
+  },
+  "apiKey": "e16df446113c3b7620e1168d67e069d77b18ad7760fb934bf188590b5773cddb",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
